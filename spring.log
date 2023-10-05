@@ -1,0 +1,12 @@
+2023-09-25T13:21:51.307+05:30  INFO 23616 --- [restartedMain] c.z.e.EcommerceYoutubeApplication        : Starting EcommerceYoutubeApplication using Java 17.0.2 with PID 23616 (D:\Youtube Project\ecommerce-youtube\target\classes started by Hp in D:\Youtube Project\ecommerce-youtube)
+2023-09-25T13:21:51.308+05:30  INFO 23616 --- [restartedMain] c.z.e.EcommerceYoutubeApplication        : No active profile set, falling back to 1 default profile: "default"
+2023-09-25T13:21:51.432+05:30  INFO 23616 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-09-25T13:21:51.432+05:30  INFO 23616 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.13]
+2023-09-25T13:21:51.445+05:30  INFO 23616 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-09-25T13:21:51.470+05:30  INFO 23616 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-5 - Starting...
+2023-09-25T13:21:51.484+05:30  INFO 23616 --- [restartedMain] com.zaxxer.hikari.pool.HikariPool        : HikariPool-5 - Added connection com.mysql.cj.jdbc.ConnectionImpl@fcaf0cc
+2023-09-25T13:21:51.484+05:30  INFO 23616 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-5 - Start completed.
+2023-09-25T13:21:51.728+05:30  INFO 23616 --- [restartedMain] c.z.e.EcommerceYoutubeApplication        : Started EcommerceYoutubeApplication in 0.449 seconds (process running for 1605.334)
+2023-09-25T13:22:26.586+05:30  INFO 23616 --- [Thread-19] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2023-09-25T13:22:26.589+05:30  INFO 23616 --- [Thread-19] com.zaxxer.hikari.HikariDataSource       : HikariPool-5 - Shutdown initiated...
+2023-09-25T13:22:26.591+05:30  INFO 23616 --- [Thread-19] com.zaxxer.hikari.HikariDataSource       : HikariPool-5 - Shutdown completed.
