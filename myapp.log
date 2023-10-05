@@ -10,3 +10,21 @@
 2023-10-05T08:36:03.622+05:30  INFO 8932 --- [restartedMain] c.z.ecommerceyoutube.config.AppConfig    : Enter into the securityFilterChain
 2023-10-05T08:36:03.811+05:30  INFO 8932 --- [restartedMain] c.z.ecommerceyoutube.config.AppConfig    : Exit from the securityFilterChain
 2023-10-05T08:36:04.141+05:30  INFO 8932 --- [restartedMain] c.z.e.EcommerceYoutubeApplication        : Started EcommerceYoutubeApplication in 5.197 seconds (process running for 5.862)
+2023-10-05T09:07:00.251+05:30  INFO 8932 --- [Thread-5] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2023-10-05T09:07:00.267+05:30  INFO 8932 --- [Thread-5] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2023-10-05T09:07:00.281+05:30  INFO 8932 --- [Thread-5] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2023-10-05T09:07:00.379+05:30  INFO 8932 --- [restartedMain] c.z.e.EcommerceYoutubeApplication        : Starting EcommerceYoutubeApplication using Java 17.0.2 with PID 8932 (D:\Youtube Project\ecommerce-youtube\target\classes started by Hp in D:\Youtube Project\ecommerce-youtube)
+2023-10-05T09:07:00.380+05:30  INFO 8932 --- [restartedMain] c.z.e.EcommerceYoutubeApplication        : No active profile set, falling back to 1 default profile: "default"
+2023-10-05T09:07:00.672+05:30  INFO 8932 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-10-05T09:07:00.672+05:30  INFO 8932 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.13]
+2023-10-05T09:07:00.693+05:30  INFO 8932 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-10-05T09:07:00.758+05:30  INFO 8932 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Starting...
+2023-10-05T09:07:00.776+05:30  INFO 8932 --- [restartedMain] com.zaxxer.hikari.pool.HikariPool        : HikariPool-2 - Added connection com.mysql.cj.jdbc.ConnectionImpl@610b2ed
+2023-10-05T09:07:00.776+05:30  INFO 8932 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Start completed.
+2023-10-05T09:07:01.295+05:30  INFO 8932 --- [restartedMain] c.z.ecommerceyoutube.config.AppConfig    : Enter into the passwordEncoder
+2023-10-05T09:07:01.400+05:30  INFO 8932 --- [restartedMain] c.z.ecommerceyoutube.config.AppConfig    : Enter into the securityFilterChain
+2023-10-05T09:07:01.466+05:30  INFO 8932 --- [restartedMain] c.z.ecommerceyoutube.config.AppConfig    : Exit from the securityFilterChain
+2023-10-05T09:07:01.555+05:30  INFO 8932 --- [restartedMain] c.z.e.EcommerceYoutubeApplication        : Started EcommerceYoutubeApplication in 1.208 seconds (process running for 1863.276)
+2023-10-05T09:08:27.874+05:30  INFO 8932 --- [RMI TCP Connection(37)-127.0.0.1] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2023-10-05T09:08:27.880+05:30  INFO 8932 --- [RMI TCP Connection(37)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Shutdown initiated...
+2023-10-05T09:08:27.885+05:30  INFO 8932 --- [RMI TCP Connection(37)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Shutdown completed.
